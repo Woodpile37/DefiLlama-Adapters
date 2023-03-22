@@ -27,7 +27,7 @@
     "borsh": "^0.7.0",
     "curve25519-js": "^0.0.4",
     "dotenv": "^8.6.0",
-    "ethers": "^5.6.5",
+    "ethers": "^6.0.8",
     "graphql": "^15.5.0",
     "graphql-request": "^3.6.1",
     "hi-base32": "^0.5.1",
