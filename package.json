@@ -29,7 +29,7 @@
     "dotenv": "^8.6.0",
     "ethers": "^5.6.5",
     "graphql": "^15.5.0",
-    "graphql-request": "^3.6.1",
+    "graphql-request": "^5.1.0",
     "hi-base32": "^0.5.1",
     "js-crypto-hkdf": "^1.0.4",
     "js-sha512": "^0.8.0",
